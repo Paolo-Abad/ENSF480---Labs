@@ -1,3 +1,10 @@
+/*
+ * File Name: Human.h
+ * Assignment: Lab 1 Exercise D
+ * Completed by: Paolo Abad, Steven Wu
+ * Submission Date: Sept 14, 2026
+ */
+
 #ifndef HUMAN_H
 #define HUMAN_H
 

@@ -1,3 +1,10 @@
+/*
+ * File Name: main.cpp
+ * Assignment: Lab 1 Exercise D
+ * Completed by: Paolo Abad, Steven Wu
+ * Submission Date: Sept 14, 2026
+ */
+
 #include <iostream>
 #include "Human.h"
 

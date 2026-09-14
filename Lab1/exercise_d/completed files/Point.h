@@ -1,3 +1,10 @@
+/*
+ * File Name: Point.h
+ * Assignment: Lab 1 Exercise D
+ * Completed by: Paolo Abad, Steven Wu
+ * Submission Date: Sept 14, 2026
+ */
+
 #ifndef POINT_H
 #define POINT_H
 

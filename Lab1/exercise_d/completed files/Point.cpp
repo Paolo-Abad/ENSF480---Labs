@@ -1,3 +1,10 @@
+/*
+ * File Name: Point.cpp
+ * Assignment: Lab 1 Exercise D
+ * Completed by: Paolo Abad, Steven Wu
+ * Submission Date: Sept 14, 2026
+ */
+
 #include "Point.h"
 
 Point::Point(double a, double b) : x(a), y(b) {}
