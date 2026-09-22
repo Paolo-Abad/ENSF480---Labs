@@ -3,6 +3,7 @@
  * Assignment: Lab 2 Exercise B
  * Completed by:
  *  - Paolo Abad
+ *  - Steven Wu
  * Submission Date: Sept 21, 2026
  */
 
