@@ -29,12 +29,12 @@ void GraphicsWorld::run()
   cout << "\nThe distance between m and n is again: "
        << Point::distance(m, n);
 #endif // end of block to test Point
-#if 1  // Change 0 to 1 to test Square
+#if 0  // Change 0 to 1 to test Square
   cout << "\n\nTesting Functions in class Square:" << endl;
   Square s(5, 7, "SQUARE - S", 12);
   s.display();
 #endif // end of block to test Square
-#if 1  // Change 0 to 1 to test Rectangle
+#if 0  // Change 0 to 1 to test Rectangle
   cout << "\nTesting Functions in class Rectangle:";
   Rectangle a(5, 7, "RECTANGLE A", 12, 15);
   a.display();
@@ -80,7 +80,7 @@ void GraphicsWorld::run()
        << endl;
   rec3.display();
 #endif // end block to test Rectangle
-#if 1  // Change 0 to 1 to test using array of pointer and polymorphism
+#if 0  // Change 0 to 1 to test using array of pointer and polymorphism
   cout << "\nTesting array of pointers and polymorphism:" << endl;
   Shape *sh[4];
   sh[0] = &s;
