@@ -1,13 +1,9 @@
 /*
  * File Name: mainLab3ExC.cpp
  * Assignment: Lab 3 Exercise C
- * Completed By:
- * - Steven Wu
- * - Paolo Abad
+ * Completed By: Steven Wu Paolo Abad
  * Submission Date: Sept. 28, 2026
  */
-
-
 #include <assert.h>
 #include <iostream>
 #include "lookupTable.h"

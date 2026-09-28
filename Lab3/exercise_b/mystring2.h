@@ -1,7 +1,9 @@
-//File: mystring2.h
-// ENSF 480 - Lab 3
-
-
+/*
+ * File Name: mystring2.h
+ * Assignment: Lab 3 Exercise B
+ * Completed By: Steven Wu, Paolo Abad
+ * Submission Date: Sept. 28, 2026
+ */
 #ifndef MYSTRING_H
 #define MYSTRING_H
 #include <iostream>

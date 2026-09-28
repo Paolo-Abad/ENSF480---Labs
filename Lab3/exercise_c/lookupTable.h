@@ -1,5 +1,10 @@
-// LookupTable.h
-// ENSF 480 - Lab 3, Ex C
+
+/*
+ * File Name: LookupTable.h
+ * Assignment: Lab 3 Exercise C
+ * Completed By: Steven Wu, Paolo Abad
+ * Submission Date: Sept. 28, 2026
+ */
 
 #ifndef LOOKUPTABLE_H
 #define LOOKUPTABLE_H
