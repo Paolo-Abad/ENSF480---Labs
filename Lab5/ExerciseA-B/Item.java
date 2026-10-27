@@ -1,7 +1,3 @@
-/* ENSF 480 - Lab 5 Exercise A and B
- * 
- */
-
 class Item<E extends Number & Comparable<E>> {
 	private E item;
 
